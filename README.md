@@ -8,6 +8,8 @@
 
  
  ## DEMO
-![Demo record](./demo.mp4)
+https://github.com/serhii-levchenko/pexels-list/assets/3995325/8e305253-4c99-4045-9ecb-44cf1baee9f7
+
+
 
 P.S. now you can remove instagram 😎
